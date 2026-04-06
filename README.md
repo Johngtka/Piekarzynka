@@ -9,10 +9,8 @@ Aplikacja mobilna/webowa dla klientów piekarni online, umożliwiająca przeglą
 
 ## 🔥 Główne Funkcje
 
-* **Live Menu:** Codziennie aktualizowana lista dostępnych wypieków.
 * **Quick Order:** System zamawiania z wyborem godziny odbioru.
 * **User Profile:** Historia zamówień i zbieranie punktów lojalnościowych.
-<!-- * **Social Sharing:** Integracja z Instagramem (udostępnianie zdjęć wypieków). -->
 * **Dark Mode:** Pełne wsparcie dla trybu ciemnego.
 
 ## 📸 Demo
@@ -20,3 +18,5 @@ Aplikacja mobilna/webowa dla klientów piekarni online, umożliwiająca przeglą
 > Tu możesz wstawić link do screenów lub gifa z działania aplikacji
 
 In porocess
+<!-- * **Social Sharing:** Integracja z Instagramem (udostępnianie zdjęć wypieków). 
+* **Live Menu:** Codziennie aktualizowana lista dostępnych wypieków. -->
