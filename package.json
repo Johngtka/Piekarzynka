@@ -3,10 +3,16 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "test": "ng test",
+    "start": "ng serve -c development",
+    "build": "ng build -c production --base-href https://johngtka.github.io/Piekarzynka/",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "format": "prettier --write ./**/*.{ts,json,html,css}",
+    "update": "npm update",
+    "prepare": "husky install",
+    "prebuild": "standard-version",
+    "postbuild": "git push --follow-tags && npx angular-cli-ghpages --dir=dist/piekarzynka",
+    "frameupdate": "ng update"
   },
   "prettier": {
     "printWidth": 100,
