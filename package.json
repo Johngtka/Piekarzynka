@@ -5,7 +5,7 @@
     "ng": "ng",
     "test": "ng test",
     "start": "ng serve -c development",
-    "build": "ng build -c production --base-href https://johngtka.github.io/Piekarzynka/",
+    "build": "ng build -c production --base-href https://johngtka.github.io/piekarzynka/",
     "watch": "ng build --watch --configuration development",
     "format": "prettier --write ./**/*.{ts,json,html,css}",
     "update": "npm update",
