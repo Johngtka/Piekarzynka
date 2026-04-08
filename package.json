@@ -11,7 +11,7 @@
     "update": "npm update",
     "prepare-bak": "npm i husky --save-dev",
     "prebuild": "standard-version",
-    "postbuild": "git push --follow-tags && npx angular-cli-ghpages --dir=dist/piekarzynka",
+    "postbuild": "git push --follow-tags && npx angular-cli-ghpages --dir=dist/Piekarzynka",
     "frameupdate": "ng update"
   },
   "prettier": {
