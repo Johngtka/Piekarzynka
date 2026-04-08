@@ -38,6 +38,7 @@
     "@angular/router": "^21.2.7",
     "prettier": "^3.8.1",
     "rxjs": "~7.8.0",
+    "standard-version": "^9.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"
   },
