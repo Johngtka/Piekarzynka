@@ -22,7 +22,7 @@ Aplikacja mobilna/webowa dla klientów piekarni online, umożliwiająca przeglą
 
 ## Art Concepts:
 
-# **PC View:
+## PC View:
 | Main Page |
 | --- |
 | <img width="644" height="647" alt="image" src="https://github.com/user-attachments/assets/8a52cfde-4b40-4a1a-a6b1-2e7820aa8a7a" />
