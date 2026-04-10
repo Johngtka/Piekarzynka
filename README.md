@@ -15,7 +15,7 @@ Aplikacja mobilna/webowa dla klientów piekarni online, umożliwiająca przeglą
 
 ## 📸 Demo
 
-> Tu możesz wstawić link do screenów lub gifa z działania aplikacji
+### [Working App](https://johngtka.github.io/Piekarzynka/)
 
 <!-- * **Social Sharing:** Integracja z Instagramem (udostępnianie zdjęć wypieków). 
 * **Live Menu:** Codziennie aktualizowana lista dostępnych wypieków. -->
@@ -26,5 +26,3 @@ Aplikacja mobilna/webowa dla klientów piekarni online, umożliwiająca przeglą
 | Main Page |
 | --- |
 | <img width="887" height="887" alt="image" src="https://github.com/user-attachments/assets/5f93ca51-dac9-4a63-800d-c7a64e1d4393" /> |
-
-### [Working App](https://johngtka.github.io/Piekarzynka/)
