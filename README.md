@@ -25,4 +25,4 @@ Aplikacja mobilna/webowa dla klientów piekarni online, umożliwiająca przeglą
 ## PC View:
 | Main Page |
 | --- |
-| <img width="887" height="887" alt="image" src="https://github.com/user-attachments/assets/5f93ca51-dac9-4a63-800d-c7a64e1d4393" /> |
+| <img width="658" height="872" alt="image" src="https://github.com/user-attachments/assets/617f274b-4024-4487-9f57-6c6e607dc35c" /> |
